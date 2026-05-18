@@ -857,7 +857,7 @@ need:
     Features](https://frequentist.org/posts/20240805-kano-model/).
 
 The full code is in the [GitHub
-repository](https://github.com/AxesAccess/Under-the-Hood-Building-a-Transit-Time-Engine-for-Hotel-Search-in-R).
+repository](https://github.com/AxesAccess/H3-Routing-Isoline-R).
 The processed travel time data is included for reproducibility without
 re-running the API calls.
 
