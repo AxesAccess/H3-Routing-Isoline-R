@@ -1,3 +1,5 @@
+
+
 # Transit Accessibility Map in R: H3 Clustering, Routing API, and IDW Isolines
 
 A complete R pipeline for building transit accessibility maps at city scale. Given a set of origins (hotels, venues, addresses) and destinations (POIs, landmarks, transport hubs), it calculates transit travel times via the Google Maps API, clusters origins with H3 hexagonal indexing to reduce API calls, interpolates a continuous surface using IDW, and renders isoline contour maps over an OSM basemap.
@@ -95,3 +97,9 @@ The pipeline is not Berlin-specific. To apply it elsewhere:
 Aleksei Prishchepo — freelance BI and analytics consultant, Berlin.
 Writing about data engineering and analytics at [frequentist.org](https://frequentist.org).
 [linkedin.com/in/aleksei-pr](https://www.linkedin.com/in/aleksei-pr/)
+
+---
+
+## License
+
+This project is shared under the [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
